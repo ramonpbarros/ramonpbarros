@@ -1,4 +1,4 @@
-<!-- <p> -->
+<p>
 <!-- languages -->
 
 ## My Skills
@@ -58,7 +58,7 @@
 
 <!-- Workflow Platforms -->
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<!-- <p/> -->
+<p/>
 
 <!--
 **ramonpbarros/ramonpbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
