@@ -83,10 +83,10 @@ Here are some ideas to get you started:
 
 <details>
   <summary>⚡ Most Used Languages</summary>
-  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
+  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&layout=compact&show_icons=true&hide_border=true&theme=dark">
 </details>
 
 <details>
   <summary>⚡ Streak Stats</summary>
-  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&hide_border=true&theme=dark">
+  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&include_all_commits=true&hide_border=true&theme=dark">
 </details>
