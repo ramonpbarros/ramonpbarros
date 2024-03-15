@@ -110,6 +110,11 @@ Here are some ideas to get you started:
   <summary>⚡ Recent Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#65](https://github.com/ummjhall/Routini/pull/65) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+2. 💪 Opened PR [#65](https://github.com/ummjhall/Routini/pull/65) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+3. 🎉 Merged PR [#64](https://github.com/ummjhall/Routini/pull/64) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+4. 💪 Opened PR [#64](https://github.com/ummjhall/Routini/pull/64) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+5. 💪 Opened PR [#63](https://github.com/ummjhall/Routini/pull/63) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
   <!--END_SECTION:activity-->
 
 </details>
