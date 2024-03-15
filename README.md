@@ -78,12 +78,12 @@ Here are some ideas to get you started:
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
+  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
 </details>
 </br>
 <details>
   <summary>⚡ Most Used Languages</summary>
-  <img align="left" alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
+  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
 </details>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&hide_border=true&theme=dark)
