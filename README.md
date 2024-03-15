@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Ramon. I love building utilities aimed at increasing Developer productivity :raised_hands:
+I'm Ramon, a software developer extraordinaire. I specialize in crafting innovative utilities that supercharge developer productivity. Let's level up our productivity and have a blast doing it! 🚀
 
-🔭 I’m currently working on [M-CLI](https://github.com/madlabsinc/mevn-cli)
+💻 I’m currently working on [Routini](https://github.com/ummjhall/Routini)
 
 📫 How to reach me:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ramon-barros-095b0b72/)
 
 <hr>
 
