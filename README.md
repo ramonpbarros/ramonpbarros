@@ -1,4 +1,4 @@
-### 🎯  My Skills :
+### 🎯  My Skills:
 <p>
 <!-- languages -->
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔥 My Stats :
+### 🔥 My Stats:
 
 <details>
   <summary>⚡ GitHub Stats</summary>
@@ -90,5 +90,7 @@ Here are some ideas to get you started:
   <summary>⚡ Streak Stats</summary>
   <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&include_all_commits=true&hide_border=true&theme=dark">
 </details>
+
+### 🎧 Now Playing on Spotify:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rknooggvhgxe7z2nsbwzamvqja&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rknooggvhgxe7z2nsbwzamvqja&redirect=true)
