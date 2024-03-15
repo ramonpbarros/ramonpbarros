@@ -75,13 +75,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔥 My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&theme=dark)
-
-![Top Langs](https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&show_icons=true&theme=dark)
 
 <details>
   <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats-inky-gamma.vercel.app/api?username=ramonpbarros&show_icons=true&theme=dark)
+<details>
+  <summary>⚡ Most Used Languages</summary>
+  <img align="left" alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
+</details>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&hide_border=true&theme=dark)
