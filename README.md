@@ -86,4 +86,7 @@ Here are some ideas to get you started:
   <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api/top-langs/?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
 </details>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&hide_border=true&theme=dark)
+<details>
+  <summary>⚡ Streak Stats</summary>
+  <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&hide_border=true&theme=dark">
+</details>
