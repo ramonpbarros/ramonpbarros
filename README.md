@@ -1,4 +1,17 @@
-### 🎯  My Skills:
+### Hi there 👋
+
+I'm Ramon. I love building utilities aimed at increasing Developer productivity :raised_hands:
+
+🔭 I’m currently working on [M-CLI](https://github.com/madlabsinc/mevn-cli)
+
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+
+<hr>
+
+### 🎯 My Skills:
+
 <p>
 <!-- languages -->
 
@@ -93,10 +106,21 @@ Here are some ideas to get you started:
   <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ramonpbarros&include_all_commits=true&hide_border=true&theme=dark">
 </details>
 
+<details>
+  <summary>⚡ Recent Activity</summary>
+
+  <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3888](https://github.com/hoppscotch/hoppscotch/pull/3888) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#3825](https://github.com/hoppscotch/hoppscotch/pull/3825#issuecomment-1980237203) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🗣 Commented on [#5](https://github.com/hoppscotch/ui/pull/5#issuecomment-1973111313) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
+4. 🗣 Commented on [#5](https://github.com/hoppscotch/ui/pull/5#issuecomment-1967066310) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
+5. 🗣 Commented on [#3780](https://github.com/hoppscotch/hoppscotch/pull/3780#issuecomment-1934509627) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
+
+</details>
+
 <hr>
 
 ### 🎧 Now Playing on Spotify:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rknooggvhgxe7z2nsbwzamvqja&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rknooggvhgxe7z2nsbwzamvqja&redirect=true)
-
-<!--START_SECTION:activity-->
