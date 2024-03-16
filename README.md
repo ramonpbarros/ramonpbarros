@@ -110,11 +110,11 @@ Here are some ideas to get you started:
   <summary>⚡ Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/ummjhall/Routini/pull/71) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-2. 🎉 Merged PR [#69](https://github.com/ummjhall/Routini/pull/69) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-3. 🎉 Merged PR [#68](https://github.com/ummjhall/Routini/pull/68) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-4. 🎉 Merged PR [#65](https://github.com/ummjhall/Routini/pull/65) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-5. 💪 Opened PR [#65](https://github.com/ummjhall/Routini/pull/65) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+1. 🗣 Commented on [#3](https://github.com/ummjhall/Routini/issues/3#issuecomment-2002068572) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+2. 🔒 Closed issue [#3](https://github.com/ummjhall/Routini/issues/3) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+3. 🗣 Commented on [#11](https://github.com/ummjhall/Routini/issues/11#issuecomment-2002067787) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+4. 🔒 Closed issue [#11](https://github.com/ummjhall/Routini/issues/11) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+5. 🗣 Commented on [#2](https://github.com/ummjhall/Routini/issues/2#issuecomment-2002063778) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
   <!--END_SECTION:activity-->
 
 </details>
