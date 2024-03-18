@@ -87,10 +87,10 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
 ### ⚡ My Stats:
 
-<details>
+<!-- <details>
   <summary>GitHub Stats</summary>
   <img alt="ramonpbarros' GitHub Stats" src="https://github-readme-stats-inky-gamma.vercel.app/api?username=ramonpbarros&show_icons=true&hide_border=true&theme=dark">
-</details>
+</details> -->
 
 <details>
   <summary>Most Used Languages</summary>
