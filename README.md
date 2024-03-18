@@ -83,11 +83,11 @@ I'm Ramon, a software developer with a passion for crafting innovative utilities
   <summary>Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/ramonpbarros/badges/issues/1) in [ramonpbarros/badges](https://github.com/ramonpbarros/badges)
-2. ❗ Opened issue [#1](https://github.com/ramonpbarros/badges/issues/1) in [ramonpbarros/badges](https://github.com/ramonpbarros/badges)
-3. 🗣 Commented on [#13](https://github.com/ummjhall/Routini/issues/13#issuecomment-2002950630) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-4. 🗣 Commented on [#8](https://github.com/ummjhall/Routini/issues/8#issuecomment-2002942869) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-5. 🗣 Commented on [#9](https://github.com/ummjhall/Routini/issues/9#issuecomment-2002923098) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+1. 🗣 Commented on [#16](https://github.com/ummjhall/Routini/issues/16#issuecomment-2004462832) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+2. 🗣 Commented on [#12](https://github.com/ummjhall/Routini/issues/12#issuecomment-2004430289) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+3. 🔒 Closed issue [#1](https://github.com/ramonpbarros/badges/issues/1) in [ramonpbarros/badges](https://github.com/ramonpbarros/badges)
+4. ❗ Opened issue [#1](https://github.com/ramonpbarros/badges/issues/1) in [ramonpbarros/badges](https://github.com/ramonpbarros/badges)
+5. 🗣 Commented on [#13](https://github.com/ummjhall/Routini/issues/13#issuecomment-2002950630) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
   <!--END_SECTION:activity-->
 
 </details>
