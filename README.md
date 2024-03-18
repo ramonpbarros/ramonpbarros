@@ -44,6 +44,7 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
 <details>
   <summary>Markup Languages</summary>
+  </br>
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -51,6 +52,7 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
 <details>
   <summary>Styling Languages</summary>
+  </br>
 
 ![Bootstrap](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -58,6 +60,7 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
 <details>
   <summary>Databases</summary>
+  </br>
 
 ![Bootstrap](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -65,6 +68,7 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
 <details>
   <summary>Version Control and Tools</summary>
+  </br>
 
   ![Node_JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
