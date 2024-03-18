@@ -70,17 +70,18 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
   <summary>Version Control and Tools</summary>
   </br>
 
-  ![Node_JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Node_JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-  ![Heruku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Heruku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 </details>
 
 <hr>
@@ -113,6 +114,12 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 4. 🗣 Commented on [#20](https://github.com/ummjhall/Routini/issues/20#issuecomment-2004941283) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
 5. 🗣 Commented on [#51](https://github.com/ummjhall/Routini/issues/51#issuecomment-2004782125) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
 <!--END_SECTION:activity-->
+
+</details>
+<details>
+  <summary>Leetcode Stats</summary>
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/ramonpbarros?ext=heatmap)
 
 </details>
 
