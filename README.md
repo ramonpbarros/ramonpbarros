@@ -108,11 +108,11 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#21](https://github.com/ummjhall/Routini/issues/21#issuecomment-2008107562) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-2. 🔒 Closed issue [#21](https://github.com/ummjhall/Routini/issues/21) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-3. 🗣 Commented on [#20](https://github.com/ummjhall/Routini/issues/20#issuecomment-2008103540) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-4. 🔒 Closed issue [#20](https://github.com/ummjhall/Routini/issues/20) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-5. 🔓 Reopened issue [#51](https://github.com/ummjhall/Routini/issues/51) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+1. 🗣 Commented on [#51](https://github.com/ummjhall/Routini/issues/51#issuecomment-2010154285) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+2. 🔒 Closed issue [#51](https://github.com/ummjhall/Routini/issues/51) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+3. 🔒 Closed issue [#22](https://github.com/ummjhall/Routini/issues/22) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+4. 🗣 Commented on [#21](https://github.com/ummjhall/Routini/issues/21#issuecomment-2008107562) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+5. 🔒 Closed issue [#21](https://github.com/ummjhall/Routini/issues/21) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
 <!--END_SECTION:activity-->
 
 </details>
