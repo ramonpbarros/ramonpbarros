@@ -108,11 +108,11 @@ I'm Ramon, a dedicated software developer enthusiastic about learning new techno
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/ramonpbarros/giftify/pull/1) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
-2. 💪 Opened PR [#1](https://github.com/ramonpbarros/giftify/pull/1) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
-3. 🎉 Merged PR [#110](https://github.com/ummjhall/Routini/pull/110) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-4. 🗣 Commented on [#4](https://github.com/ummjhall/Routini/issues/4#issuecomment-2015694207) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
-5. 🔒 Closed issue [#4](https://github.com/ummjhall/Routini/issues/4) in [ummjhall/Routini](https://github.com/ummjhall/Routini)
+1. 🎉 Merged PR [#3](https://github.com/ramonpbarros/giftify/pull/3) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
+2. 💪 Opened PR [#3](https://github.com/ramonpbarros/giftify/pull/3) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
+3. 🎉 Merged PR [#2](https://github.com/ramonpbarros/giftify/pull/2) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
+4. 💪 Opened PR [#2](https://github.com/ramonpbarros/giftify/pull/2) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
+5. 🎉 Merged PR [#1](https://github.com/ramonpbarros/giftify/pull/1) in [ramonpbarros/giftify](https://github.com/ramonpbarros/giftify)
 <!--END_SECTION:activity-->
 
 </details>
